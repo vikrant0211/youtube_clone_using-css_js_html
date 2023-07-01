@@ -1,0 +1,12 @@
+.contaner{
+    display: grid;
+    background-color: black;
+    width: 70%; 
+    grid-template-columns: auto auto auto auto;
+}
+.box{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    width: 20px;
+}

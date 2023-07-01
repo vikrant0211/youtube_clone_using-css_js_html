@@ -1,0 +1,30 @@
+header{
+    background-color: rgb(41, 117, 24);
+}
+header img{
+    border: 5px solid black;
+}
+aside{
+    background-color: chocolate;
+}
+article img{
+    border: 5px solid black;
+}
+article p{
+    background-color: crimson;
+}
+footer{
+    background-color: blue;
+}
+section{
+    background-color: chartreuse;
+}
+#python_image{
+    background-color: white;
+}
+.box{
+    width: 300px;
+    height: 300px;
+    margin-inline: auto;
+
+}

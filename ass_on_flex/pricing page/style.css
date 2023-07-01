@@ -1,0 +1,74 @@
+.contaner{
+    display: flex;
+    height: 500px;
+    gap: 10px;
+
+}
+.box{
+    
+    width: 33%;
+    border: 2px solid grey;
+}
+.he1{
+    height: 85px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.bassic{
+    color: white;
+    font-size: 50px;
+
+}
+/* .ph1{
+    color: white;
+
+} */
+p{
+    text-align: center;
+}
+.price{
+    font-size: 40px;
+    font-weight: bold;
+}
+.footer{
+    border-top: 2px solid rgba(128, 128, 128, 0.695);
+    background-color: rgba(193, 180, 180, 0.449);
+    height: 90px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signup{
+    height: 50px;
+    width:100px ;
+    background-color: rgb(2, 159, 2);
+}
+.cwh{
+    color: white;
+}
+.he2{
+    height: 85px;
+    background-color: rgba(0, 0, 0, 0.663);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.pro{
+    color: white;
+    font-size: 50px;
+}
+.he3{
+    height: 85px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.premium{
+    color: white;
+    font-size: 50px;
+}

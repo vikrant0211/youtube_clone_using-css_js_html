@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.contaner{
+    width: 70%;
+    border: 5px solid black;
+    margin: auto;
+    display: flex;
+    background-color: #eee;
+}
+.left-side{
+    width: 30%;
+}
+.right-side{
+    width: 70%;
+}
+img{
+    width: 100%;
+    height: 250px;
+    position:relative;
+}
+h3{
+    position: absolute;
+    top: 220px;
+    color: aliceblue;
+}
+.contact-box ul{
+    list-style: none;
+}
+.icon{
+display: flex;
+}
+i{
+    color: teal;
+}
+.progress-box{
+    border-radius: 20px ;
+    background-color: #ccc;
+
+}
+.progress-box .progress{
+    background-color: teal;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+}

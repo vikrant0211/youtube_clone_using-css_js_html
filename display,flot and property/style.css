@@ -1,0 +1,11 @@
+.black-border{
+    display: inline-block;
+    border: 4px solid black;
+}
+p{
+    width: 400px;
+    height: 400px;
+}
+a{
+    width: 200px;
+}
